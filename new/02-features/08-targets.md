@@ -4,6 +4,11 @@
 
 Targets is a user dashboard or analytics tab. These widgets provide a summary or analysis of the data in reports that have been submitted. These widgets can be configured to track metrics for an individual CHW or for an entire health facility. Currently, the user must have access to the report in order to generate the widget with its data.
 
+There are multiple user personas associated with targets and performance dashboards, which include:
+- **CHWS**
+- **CHW Supervisors** *or other facility-based users*
+- **Program Staff** *or other users engaging in cross-project monitoring* 
+
 For CHWs, the Targets tab can provide a quick summary of their progress towards their goals. For supervisors, nurses, and other facility-based users, these widgets might display important insights into how their community unit is performing.
 
 Targets can be configured for any user that has offline access.
